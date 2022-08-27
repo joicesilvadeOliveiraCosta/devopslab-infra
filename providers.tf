@@ -12,6 +12,6 @@ provider "google" {
 
   
   project = "labdevopscloud-t06"
-  region  = "us-east4"
-  zone    = "us-east4-c"
+  region  = "us-west1"
+  zone    = "us-west1-b"
 }
